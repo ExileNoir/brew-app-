@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "416550416389",
+    "project_id": "brew-crew-d47d6",
+    "storage_bucket": "brew-crew-d47d6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:416550416389:android:04d586f7d95ced5a2dec6c",
+        "android_client_info": {
+          "package_name": "infernalwhaler.brew_crew"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "416550416389-ot3mvcmcgkkec93o4f7tq2a97cgkh46q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYodZb9B-N7yNKvtswYUlPi9UkOVOJ-Vc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "416550416389-ot3mvcmcgkkec93o4f7tq2a97cgkh46q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
